@@ -1,0 +1,601 @@
+hcp_id,territory_id,region,specialty,potential_score,current_calls_per_quarter,call_gap,priority_decile
+HCP00000,T017,West,Cardiology,49.3,2,1.3,5
+HCP00001,T011,Midwest,Endocrinology,28.2,1,0.9,2
+HCP00002,T001,West,Primary Care,56.7,3,0.8,5
+HCP00003,T009,West,Primary Care,56.0,2,1.7,7
+HCP00004,T003,West,Primary Care,74.0,6,-1.1,7
+HCP00005,T013,Southeast,Primary Care,9.7,0,0.6,1
+HCP00006,T015,Southeast,Cardiology,113.6,9,-1.4,10
+HCP00007,T014,Southwest,Primary Care,11.5,1,-0.2,1
+HCP00008,T007,Midwest,Primary Care,50.9,2,1.4,5
+HCP00009,T013,Southeast,Oncology,60.0,6,-2.0,7
+HCP00010,T007,Midwest,Primary Care,94.1,5,1.3,9
+HCP00011,T015,Southeast,Cardiology,16.5,1,0.1,2
+HCP00012,T012,West,Endocrinology,66.6,0,4.4,6
+HCP00013,T017,West,Primary Care,56.3,2,1.8,6
+HCP00014,T014,Southwest,Cardiology,49.6,3,0.3,7
+HCP00015,T012,West,Oncology,95.1,5,1.3,8
+HCP00016,T008,Midwest,Oncology,56.0,8,-4.3,5
+HCP00017,T014,Southwest,Primary Care,45.9,5,-1.9,6
+HCP00018,T012,West,Oncology,109.3,10,-2.7,9
+HCP00019,T000,Southwest,Cardiology,43.0,0,2.9,4
+HCP00020,T006,Midwest,Primary Care,37.6,3,-0.5,4
+HCP00021,T008,Midwest,Cardiology,7.1,0,0.5,1
+HCP00022,T000,Southwest,Oncology,59.8,3,1.0,5
+HCP00023,T011,Midwest,Cardiology,21.2,3,-1.6,1
+HCP00024,T007,Midwest,Primary Care,36.2,2,0.4,3
+HCP00025,T010,Southwest,Cardiology,143.0,12,-2.5,10
+HCP00026,T018,Northeast,Primary Care,99.9,4,2.7,8
+HCP00027,T016,Southwest,Primary Care,34.9,3,-0.7,3
+HCP00028,T007,Midwest,Primary Care,14.5,0,1.0,1
+HCP00029,T002,Midwest,Primary Care,13.3,0,0.9,2
+HCP00030,T002,Midwest,Primary Care,77.9,1,4.2,9
+HCP00031,T000,Southwest,Primary Care,35.3,2,0.4,3
+HCP00032,T004,West,Cardiology,70.6,2,2.7,6
+HCP00033,T009,West,Primary Care,34.7,4,-1.7,4
+HCP00034,T006,Midwest,Primary Care,60.2,5,-1.0,8
+HCP00035,T008,Midwest,Oncology,81.5,4,1.4,6
+HCP00036,T006,Midwest,Cardiology,110.3,5,2.4,10
+HCP00037,T008,Midwest,Cardiology,111.4,9,-1.6,9
+HCP00038,T007,Midwest,Primary Care,18.0,1,0.2,1
+HCP00039,T011,Midwest,Primary Care,53.0,2,1.5,5
+HCP00040,T001,West,Primary Care,96.4,9,-2.6,8
+HCP00041,T000,Southwest,Primary Care,59.6,2,2.0,5
+HCP00042,T015,Southeast,Primary Care,55.0,4,-0.3,6
+HCP00043,T004,West,Primary Care,21.7,2,-0.6,2
+HCP00044,T002,Midwest,Primary Care,22.0,1,0.5,3
+HCP00045,T011,Midwest,Primary Care,41.2,3,-0.3,3
+HCP00046,T007,Midwest,Cardiology,39.0,2,0.6,4
+HCP00047,T002,Midwest,Primary Care,82.8,1,4.5,9
+HCP00048,T000,Southwest,Primary Care,36.3,2,0.4,3
+HCP00049,T002,Midwest,Cardiology,37.1,3,-0.5,5
+HCP00050,T004,West,Cardiology,134.7,7,2.0,10
+HCP00051,T014,Southwest,Primary Care,15.4,0,1.0,2
+HCP00052,T013,Southeast,Endocrinology,57.2,2,1.8,7
+HCP00053,T002,Midwest,Cardiology,41.3,6,-3.2,5
+HCP00054,T000,Southwest,Primary Care,177.2,12,-0.2,10
+HCP00055,T004,West,Oncology,81.9,5,0.5,8
+HCP00056,T013,Southeast,Oncology,38.6,7,-4.4,6
+HCP00057,T006,Midwest,Primary Care,42.9,3,-0.1,6
+HCP00058,T008,Midwest,Primary Care,36.2,2,0.4,3
+HCP00059,T014,Southwest,Endocrinology,31.1,2,0.1,4
+HCP00060,T014,Southwest,Endocrinology,115.4,4,3.7,10
+HCP00061,T009,West,Primary Care,65.2,4,0.3,7
+HCP00062,T012,West,Primary Care,51.2,1,2.4,4
+HCP00063,T018,Northeast,Primary Care,20.8,2,-0.6,2
+HCP00064,T006,Midwest,Cardiology,210.8,11,3.1,10
+HCP00065,T016,Southwest,Cardiology,86.9,8,-2.2,8
+HCP00066,T019,Southwest,Primary Care,25.6,2,-0.3,1
+HCP00067,T003,West,Cardiology,140.2,8,1.3,9
+HCP00068,T004,West,Endocrinology,63.7,1,3.2,6
+HCP00069,T006,Midwest,Primary Care,80.5,3,2.4,9
+HCP00070,T012,West,Primary Care,56.0,6,-2.3,5
+HCP00071,T014,Southwest,Endocrinology,223.0,13,1.9,10
+HCP00072,T010,Southwest,Oncology,32.9,5,-2.8,3
+HCP00073,T003,West,Cardiology,42.9,2,0.9,3
+HCP00074,T012,West,Cardiology,366.9,22,2.5,10
+HCP00075,T006,Midwest,Primary Care,38.6,1,1.6,4
+HCP00076,T018,Northeast,Primary Care,14.8,0,1.0,2
+HCP00077,T001,West,Cardiology,100.3,11,-4.3,10
+HCP00078,T009,West,Primary Care,87.7,3,2.8,9
+HCP00079,T012,West,Primary Care,38.2,1,1.5,3
+HCP00080,T005,Southeast,Primary Care,5.8,0,0.4,1
+HCP00081,T011,Midwest,Primary Care,18.8,1,0.3,1
+HCP00082,T011,Midwest,Primary Care,8.9,1,-0.4,1
+HCP00083,T019,Southwest,Primary Care,145.4,3,6.7,9
+HCP00084,T010,Southwest,Primary Care,8.1,2,-1.5,1
+HCP00085,T006,Midwest,Primary Care,25.8,3,-1.3,2
+HCP00086,T000,Southwest,Oncology,122.7,13,-4.8,8
+HCP00087,T000,Southwest,Cardiology,20.6,2,-0.6,2
+HCP00088,T019,Southwest,Cardiology,89.6,6,-0.0,7
+HCP00089,T012,West,Endocrinology,32.5,2,0.2,2
+HCP00090,T008,Midwest,Cardiology,84.8,12,-6.3,7
+HCP00091,T002,Midwest,Primary Care,32.9,2,0.2,4
+HCP00092,T006,Midwest,Cardiology,58.9,8,-4.1,7
+HCP00093,T005,Southeast,Cardiology,138.0,6,3.2,9
+HCP00094,T007,Midwest,Endocrinology,20.1,3,-1.7,1
+HCP00095,T008,Midwest,Primary Care,52.8,4,-0.5,4
+HCP00096,T004,West,Primary Care,73.5,7,-2.1,7
+HCP00097,T000,Southwest,Primary Care,13.0,1,-0.1,1
+HCP00098,T018,Northeast,Primary Care,8.9,0,0.6,1
+HCP00099,T009,West,Cardiology,53.6,5,-1.4,6
+HCP00100,T011,Midwest,Cardiology,80.7,4,1.4,6
+HCP00101,T014,Southwest,Primary Care,66.3,2,2.4,8
+HCP00102,T008,Midwest,Oncology,21.9,1,0.5,2
+HCP00103,T019,Southwest,Cardiology,120.7,8,0.0,8
+HCP00104,T016,Southwest,Primary Care,94.9,7,-0.7,9
+HCP00105,T016,Southwest,Primary Care,54.5,3,0.6,6
+HCP00106,T019,Southwest,Primary Care,99.2,5,1.6,8
+HCP00107,T011,Midwest,Primary Care,32.0,1,1.1,2
+HCP00108,T006,Midwest,Primary Care,26.3,3,-1.2,3
+HCP00109,T001,West,Primary Care,37.6,2,0.5,3
+HCP00110,T002,Midwest,Primary Care,16.4,0,1.1,2
+HCP00111,T016,Southwest,Primary Care,25.4,1,0.7,1
+HCP00112,T004,West,Oncology,83.9,5,0.6,8
+HCP00113,T016,Southwest,Primary Care,46.3,2,1.1,4
+HCP00114,T016,Southwest,Cardiology,92.9,4,2.2,8
+HCP00115,T016,Southwest,Primary Care,4.0,1,-0.7,1
+HCP00116,T001,West,Oncology,453.2,33,-2.8,10
+HCP00117,T001,West,Primary Care,18.1,1,0.2,1
+HCP00118,T004,West,Primary Care,66.1,5,-0.6,6
+HCP00119,T000,Southwest,Oncology,102.5,8,-1.2,8
+HCP00120,T000,Southwest,Oncology,48.0,4,-0.8,4
+HCP00121,T018,Northeast,Endocrinology,86.7,5,0.8,7
+HCP00122,T001,West,Primary Care,18.5,1,0.2,1
+HCP00123,T011,Midwest,Primary Care,40.7,4,-1.3,3
+HCP00124,T005,Southeast,Cardiology,232.9,18,-2.5,10
+HCP00125,T003,West,Oncology,57.6,5,-1.2,6
+HCP00126,T010,Southwest,Cardiology,70.2,3,1.7,6
+HCP00127,T016,Southwest,Cardiology,25.1,1,0.7,1
+HCP00128,T005,Southeast,Primary Care,67.2,2,2.5,6
+HCP00129,T004,West,Endocrinology,30.0,4,-2.0,3
+HCP00130,T019,Southwest,Primary Care,52.0,8,-4.5,4
+HCP00131,T001,West,Primary Care,83.3,6,-0.4,8
+HCP00132,T005,Southeast,Primary Care,34.0,1,1.3,3
+HCP00133,T010,Southwest,Cardiology,100.3,11,-4.3,7
+HCP00134,T015,Southeast,Primary Care,54.2,3,0.6,5
+HCP00135,T015,Southeast,Primary Care,85.4,5,0.7,9
+HCP00136,T000,Southwest,Cardiology,100.6,6,0.7,7
+HCP00137,T008,Midwest,Primary Care,98.7,7,-0.4,8
+HCP00138,T005,Southeast,Cardiology,54.1,3,0.6,4
+HCP00139,T015,Southeast,Primary Care,12.5,0,0.8,1
+HCP00140,T002,Midwest,Cardiology,12.7,2,-1.2,1
+HCP00141,T019,Southwest,Cardiology,14.3,2,-1.0,1
+HCP00142,T003,West,Primary Care,32.6,4,-1.8,2
+HCP00143,T018,Northeast,Primary Care,47.4,3,0.2,5
+HCP00144,T002,Midwest,Primary Care,22.9,5,-3.5,3
+HCP00145,T018,Northeast,Primary Care,23.3,1,0.6,3
+HCP00146,T019,Southwest,Oncology,57.3,3,0.8,5
+HCP00147,T006,Midwest,Primary Care,41.0,1,1.7,5
+HCP00148,T019,Southwest,Endocrinology,151.0,12,-1.9,9
+HCP00149,T008,Midwest,Primary Care,6.2,0,0.4,1
+HCP00150,T000,Southwest,Cardiology,108.3,2,5.2,8
+HCP00151,T007,Midwest,Endocrinology,88.4,4,1.9,8
+HCP00152,T006,Midwest,Cardiology,54.5,3,0.6,7
+HCP00153,T017,West,Cardiology,89.0,7,-1.1,9
+HCP00154,T007,Midwest,Primary Care,35.9,3,-0.6,3
+HCP00155,T000,Southwest,Primary Care,62.2,5,-0.9,5
+HCP00156,T010,Southwest,Oncology,38.8,1,1.6,4
+HCP00157,T017,West,Endocrinology,24.2,1,0.6,2
+HCP00158,T009,West,Oncology,10.8,1,-0.3,1
+HCP00159,T002,Midwest,Primary Care,55.8,4,-0.3,7
+HCP00160,T006,Midwest,Endocrinology,35.1,0,2.3,4
+HCP00161,T015,Southeast,Oncology,17.1,1,0.1,2
+HCP00162,T015,Southeast,Primary Care,17.6,1,0.2,2
+HCP00163,T019,Southwest,Primary Care,62.1,3,1.1,6
+HCP00164,T016,Southwest,Endocrinology,65.9,9,-4.6,7
+HCP00165,T001,West,Cardiology,29.0,3,-1.1,2
+HCP00166,T000,Southwest,Endocrinology,147.0,9,0.8,10
+HCP00167,T015,Southeast,Primary Care,39.3,1,1.6,4
+HCP00168,T011,Midwest,Endocrinology,82.4,7,-1.5,7
+HCP00169,T004,West,Primary Care,46.3,1,2.1,5
+HCP00170,T004,West,Primary Care,33.2,3,-0.8,4
+HCP00171,T008,Midwest,Primary Care,56.0,1,2.7,5
+HCP00172,T008,Midwest,Endocrinology,127.2,6,2.5,10
+HCP00173,T002,Midwest,Cardiology,52.3,2,1.5,6
+HCP00174,T018,Northeast,Cardiology,113.2,9,-1.5,9
+HCP00175,T015,Southeast,Primary Care,22.9,5,-3.5,3
+HCP00176,T015,Southeast,Oncology,264.6,24,-6.4,10
+HCP00177,T002,Midwest,Primary Care,20.2,1,0.3,3
+HCP00178,T019,Southwest,Endocrinology,227.4,15,0.2,10
+HCP00179,T000,Southwest,Primary Care,13.1,0,0.9,1
+HCP00180,T019,Southwest,Primary Care,31.3,1,1.1,2
+HCP00181,T010,Southwest,Cardiology,92.9,5,1.2,7
+HCP00182,T016,Southwest,Primary Care,95.0,7,-0.7,9
+HCP00183,T007,Midwest,Endocrinology,166.7,9,2.1,10
+HCP00184,T003,West,Cardiology,174.0,13,-1.4,10
+HCP00185,T005,Southeast,Primary Care,56.5,3,0.8,4
+HCP00186,T007,Midwest,Oncology,42.8,5,-2.1,4
+HCP00187,T019,Southwest,Primary Care,81.8,3,2.5,7
+HCP00188,T002,Midwest,Cardiology,141.5,5,4.4,10
+HCP00189,T015,Southeast,Oncology,104.4,9,-2.0,9
+HCP00190,T002,Midwest,Cardiology,42.7,3,-0.2,5
+HCP00191,T017,West,Primary Care,15.3,0,1.0,1
+HCP00192,T013,Southeast,Oncology,45.3,6,-3.0,6
+HCP00193,T017,West,Cardiology,34.7,0,2.3,5
+HCP00194,T001,West,Primary Care,42.8,1,1.9,4
+HCP00195,T002,Midwest,Primary Care,84.6,4,1.6,9
+HCP00196,T015,Southeast,Endocrinology,63.4,2,2.2,7
+HCP00197,T008,Midwest,Cardiology,22.6,3,-1.5,2
+HCP00198,T003,West,Cardiology,109.4,13,-5.7,8
+HCP00199,T000,Southwest,Oncology,282.7,17,1.8,10
+HCP00200,T003,West,Endocrinology,62.8,7,-2.8,6
+HCP00201,T000,Southwest,Primary Care,23.3,2,-0.4,2
+HCP00202,T013,Southeast,Primary Care,17.2,2,-0.9,3
+HCP00203,T015,Southeast,Primary Care,65.5,5,-0.6,7
+HCP00204,T019,Southwest,Endocrinology,163.1,12,-1.1,10
+HCP00205,T007,Midwest,Primary Care,32.5,2,0.2,2
+HCP00206,T006,Midwest,Cardiology,42.7,3,-0.2,5
+HCP00207,T002,Midwest,Endocrinology,61.7,9,-4.9,8
+HCP00208,T016,Southwest,Oncology,144.5,7,2.6,10
+HCP00209,T000,Southwest,Primary Care,21.9,1,0.5,2
+HCP00210,T015,Southeast,Endocrinology,69.1,7,-2.4,8
+HCP00211,T011,Midwest,Primary Care,60.1,4,0.0,6
+HCP00212,T018,Northeast,Endocrinology,88.8,7,-1.1,8
+HCP00213,T013,Southeast,Primary Care,15.8,4,-2.9,2
+HCP00214,T005,Southeast,Primary Care,19.0,1,0.3,2
+HCP00215,T005,Southeast,Endocrinology,62.4,3,1.2,5
+HCP00216,T012,West,Primary Care,69.0,2,2.6,7
+HCP00217,T018,Northeast,Primary Care,157.2,8,2.5,9
+HCP00218,T007,Midwest,Endocrinology,20.7,1,0.4,2
+HCP00219,T001,West,Endocrinology,70.4,2,2.7,7
+HCP00220,T000,Southwest,Cardiology,66.6,3,1.4,6
+HCP00221,T014,Southwest,Cardiology,46.5,2,1.1,7
+HCP00222,T000,Southwest,Cardiology,146.9,9,0.8,9
+HCP00223,T004,West,Primary Care,62.8,3,1.2,6
+HCP00224,T015,Southeast,Primary Care,64.2,2,2.3,7
+HCP00225,T018,Northeast,Primary Care,13.9,1,-0.1,1
+HCP00226,T003,West,Oncology,62.6,7,-2.8,6
+HCP00227,T002,Midwest,Cardiology,69.3,8,-3.4,8
+HCP00228,T016,Southwest,Primary Care,47.4,5,-1.8,5
+HCP00229,T016,Southwest,Cardiology,292.1,19,0.5,10
+HCP00230,T011,Midwest,Oncology,65.4,3,1.4,6
+HCP00231,T013,Southeast,Primary Care,1.8,0,0.1,1
+HCP00232,T005,Southeast,Cardiology,70.0,5,-0.3,7
+HCP00233,T002,Midwest,Cardiology,96.5,5,1.4,10
+HCP00234,T008,Midwest,Cardiology,69.5,6,-1.4,6
+HCP00235,T004,West,Primary Care,0.7,0,0.0,1
+HCP00236,T016,Southwest,Oncology,103.7,8,-1.1,9
+HCP00237,T013,Southeast,Oncology,123.3,4,4.2,10
+HCP00238,T002,Midwest,Cardiology,19.9,4,-2.7,3
+HCP00239,T000,Southwest,Cardiology,37.1,2,0.5,4
+HCP00240,T019,Southwest,Oncology,79.4,4,1.3,7
+HCP00241,T000,Southwest,Endocrinology,36.4,3,-0.6,3
+HCP00242,T002,Midwest,Primary Care,29.8,1,1.0,4
+HCP00243,T017,West,Cardiology,83.5,8,-2.4,9
+HCP00244,T009,West,Cardiology,39.2,1,1.6,4
+HCP00245,T002,Midwest,Primary Care,9.2,0,0.6,1
+HCP00246,T007,Midwest,Endocrinology,110.0,5,2.3,9
+HCP00247,T013,Southeast,Oncology,32.5,3,-0.8,5
+HCP00248,T017,West,Oncology,70.6,2,2.7,8
+HCP00249,T014,Southwest,Cardiology,43.8,0,2.9,6
+HCP00250,T001,West,Primary Care,14.1,1,-0.1,1
+HCP00251,T009,West,Oncology,153.9,11,-0.7,10
+HCP00252,T001,West,Endocrinology,100.0,7,-0.3,9
+HCP00253,T016,Southwest,Primary Care,30.3,4,-2.0,2
+HCP00254,T007,Midwest,Oncology,82.4,4,1.5,8
+HCP00255,T000,Southwest,Oncology,90.6,5,1.0,7
+HCP00256,T008,Midwest,Cardiology,24.0,2,-0.4,2
+HCP00257,T010,Southwest,Cardiology,27.4,4,-2.2,2
+HCP00258,T015,Southeast,Primary Care,40.7,2,0.7,5
+HCP00259,T006,Midwest,Primary Care,13.8,2,-1.1,1
+HCP00260,T009,West,Primary Care,40.4,3,-0.3,5
+HCP00261,T002,Midwest,Endocrinology,3.9,0,0.3,1
+HCP00262,T017,West,Primary Care,28.9,1,0.9,3
+HCP00263,T012,West,Primary Care,51.6,5,-1.6,4
+HCP00264,T006,Midwest,Primary Care,48.7,1,2.2,6
+HCP00265,T003,West,Cardiology,144.8,14,-4.3,9
+HCP00266,T012,West,Oncology,29.9,0,2.0,2
+HCP00267,T019,Southwest,Primary Care,38.9,2,0.6,3
+HCP00268,T000,Southwest,Primary Care,79.0,7,-1.7,6
+HCP00269,T007,Midwest,Endocrinology,71.7,4,0.8,6
+HCP00270,T013,Southeast,Cardiology,117.1,8,-0.2,10
+HCP00271,T015,Southeast,Primary Care,13.8,2,-1.1,1
+HCP00272,T013,Southeast,Cardiology,70.0,9,-4.3,9
+HCP00273,T011,Midwest,Primary Care,34.7,2,0.3,3
+HCP00274,T018,Northeast,Primary Care,44.6,2,1.0,5
+HCP00275,T014,Southwest,Cardiology,33.2,2,0.2,4
+HCP00276,T001,West,Primary Care,99.2,5,1.6,9
+HCP00277,T001,West,Oncology,135.4,10,-1.0,10
+HCP00278,T018,Northeast,Primary Care,91.3,5,1.1,8
+HCP00279,T016,Southwest,Cardiology,82.3,8,-2.5,7
+HCP00280,T019,Southwest,Cardiology,36.4,1,1.4,2
+HCP00281,T009,West,Primary Care,64.5,5,-0.7,7
+HCP00282,T005,Southeast,Cardiology,159.9,14,-3.3,10
+HCP00283,T014,Southwest,Primary Care,51.4,3,0.4,7
+HCP00284,T010,Southwest,Oncology,36.7,3,-0.6,4
+HCP00285,T004,West,Primary Care,25.5,2,-0.3,2
+HCP00286,T000,Southwest,Primary Care,42.9,4,-1.1,4
+HCP00287,T007,Midwest,Primary Care,108.5,6,1.2,9
+HCP00288,T011,Midwest,Oncology,261.8,18,-0.5,10
+HCP00289,T011,Midwest,Cardiology,31.6,4,-1.9,2
+HCP00290,T004,West,Cardiology,87.0,5,0.8,8
+HCP00291,T006,Midwest,Primary Care,25.3,1,0.7,2
+HCP00292,T003,West,Endocrinology,17.5,0,1.2,1
+HCP00293,T005,Southeast,Primary Care,63.3,2,2.2,5
+HCP00294,T012,West,Oncology,93.2,7,-0.8,8
+HCP00295,T019,Southwest,Primary Care,48.8,8,-4.7,4
+HCP00296,T014,Southwest,Primary Care,36.6,3,-0.6,5
+HCP00297,T002,Midwest,Primary Care,52.3,6,-2.5,6
+HCP00298,T007,Midwest,Cardiology,81.4,6,-0.6,8
+HCP00299,T019,Southwest,Cardiology,119.9,6,2.0,8
+HCP00300,T015,Southeast,Primary Care,20.5,3,-1.6,2
+HCP00301,T012,West,Endocrinology,108.4,7,0.2,8
+HCP00302,T017,West,Cardiology,112.2,7,0.5,10
+HCP00303,T009,West,Cardiology,85.0,5,0.7,9
+HCP00304,T018,Northeast,Primary Care,42.7,1,1.8,4
+HCP00305,T016,Southwest,Primary Care,38.7,2,0.6,4
+HCP00306,T018,Northeast,Cardiology,62.3,1,3.2,6
+HCP00307,T004,West,Primary Care,42.7,3,-0.2,5
+HCP00308,T008,Midwest,Primary Care,9.7,2,-1.4,1
+HCP00309,T011,Midwest,Oncology,337.5,12,10.5,10
+HCP00310,T000,Southwest,Oncology,173.8,12,-0.4,10
+HCP00311,T000,Southwest,Primary Care,131.7,3,5.8,9
+HCP00312,T014,Southwest,Primary Care,65.2,1,3.3,8
+HCP00313,T001,West,Cardiology,39.4,4,-1.4,4
+HCP00314,T015,Southeast,Primary Care,59.1,5,-1.1,7
+HCP00315,T007,Midwest,Primary Care,74.5,7,-2.0,7
+HCP00316,T012,West,Primary Care,18.3,1,0.2,1
+HCP00317,T000,Southwest,Endocrinology,138.0,7,2.2,9
+HCP00318,T015,Southeast,Cardiology,47.1,2,1.1,5
+HCP00319,T006,Midwest,Primary Care,69.5,4,0.6,8
+HCP00320,T004,West,Primary Care,108.0,5,2.2,9
+HCP00321,T002,Midwest,Primary Care,51.3,4,-0.6,6
+HCP00322,T011,Midwest,Cardiology,173.5,9,2.6,10
+HCP00323,T015,Southeast,Primary Care,10.2,0,0.7,1
+HCP00324,T018,Northeast,Primary Care,15.2,0,1.0,2
+HCP00325,T004,West,Endocrinology,28.7,4,-2.1,3
+HCP00326,T013,Southeast,Primary Care,7.4,0,0.5,1
+HCP00327,T004,West,Cardiology,173.8,14,-2.4,10
+HCP00328,T014,Southwest,Primary Care,91.8,7,-0.9,10
+HCP00329,T016,Southwest,Primary Care,25.8,3,-1.3,2
+HCP00330,T013,Southeast,Primary Care,161.8,10,0.8,10
+HCP00331,T019,Southwest,Endocrinology,46.0,3,0.1,3
+HCP00332,T004,West,Oncology,270.5,23,-5.0,10
+HCP00333,T011,Midwest,Endocrinology,191.8,17,-4.2,10
+HCP00334,T015,Southeast,Primary Care,24.6,1,0.6,3
+HCP00335,T015,Southeast,Cardiology,119.2,7,0.9,10
+HCP00336,T006,Midwest,Primary Care,89.1,6,-0.1,9
+HCP00337,T003,West,Primary Care,24.0,3,-1.4,2
+HCP00338,T000,Southwest,Oncology,1.9,0,0.1,1
+HCP00339,T004,West,Primary Care,73.2,5,-0.1,7
+HCP00340,T009,West,Primary Care,19.9,2,-0.7,1
+HCP00341,T004,West,Primary Care,37.5,0,2.5,4
+HCP00342,T003,West,Primary Care,48.1,3,0.2,4
+HCP00343,T001,West,Primary Care,63.2,6,-1.8,7
+HCP00344,T019,Southwest,Cardiology,50.2,1,2.3,4
+HCP00345,T009,West,Primary Care,50.7,0,3.4,6
+HCP00346,T018,Northeast,Oncology,187.1,14,-1.5,10
+HCP00347,T000,Southwest,Endocrinology,7.3,0,0.5,1
+HCP00348,T004,West,Primary Care,10.7,0,0.7,1
+HCP00349,T012,West,Primary Care,14.1,0,0.9,1
+HCP00350,T003,West,Primary Care,26.8,2,-0.2,2
+HCP00351,T015,Southeast,Cardiology,115.0,7,0.7,10
+HCP00352,T015,Southeast,Primary Care,84.7,8,-2.4,9
+HCP00353,T001,West,Cardiology,57.1,4,-0.2,6
+HCP00354,T016,Southwest,Primary Care,35.8,1,1.4,3
+HCP00355,T019,Southwest,Cardiology,167.3,13,-1.8,10
+HCP00356,T011,Midwest,Primary Care,48.7,1,2.2,4
+HCP00357,T017,West,Primary Care,30.6,3,-1.0,4
+HCP00358,T002,Midwest,Oncology,156.0,9,1.4,10
+HCP00359,T000,Southwest,Endocrinology,101.0,7,-0.3,8
+HCP00360,T000,Southwest,Primary Care,55.8,1,2.7,5
+HCP00361,T018,Northeast,Oncology,51.5,3,0.4,6
+HCP00362,T010,Southwest,Cardiology,27.9,4,-2.1,2
+HCP00363,T004,West,Oncology,38.0,1,1.5,4
+HCP00364,T011,Midwest,Endocrinology,28.0,2,-0.1,1
+HCP00365,T002,Midwest,Primary Care,18.4,0,1.2,2
+HCP00366,T000,Southwest,Primary Care,26.9,0,1.8,2
+HCP00367,T000,Southwest,Primary Care,41.2,1,1.7,4
+HCP00368,T007,Midwest,Cardiology,72.1,8,-3.2,7
+HCP00369,T009,West,Cardiology,23.7,1,0.6,2
+HCP00370,T010,Southwest,Primary Care,50.2,3,0.3,5
+HCP00371,T011,Midwest,Primary Care,44.5,2,1.0,4
+HCP00372,T012,West,Endocrinology,53.5,7,-3.4,4
+HCP00373,T011,Midwest,Oncology,50.1,0,3.3,5
+HCP00374,T013,Southeast,Cardiology,24.2,1,0.6,4
+HCP00375,T001,West,Primary Care,62.8,3,1.2,6
+HCP00376,T018,Northeast,Primary Care,44.3,2,1.0,4
+HCP00377,T017,West,Primary Care,53.9,2,1.6,5
+HCP00378,T002,Midwest,Oncology,58.7,1,2.9,7
+HCP00379,T016,Southwest,Primary Care,26.5,2,-0.2,2
+HCP00380,T007,Midwest,Cardiology,134.2,11,-2.1,10
+HCP00381,T009,West,Primary Care,32.8,2,0.2,3
+HCP00382,T001,West,Cardiology,74.8,5,-0.0,8
+HCP00383,T018,Northeast,Cardiology,62.5,2,2.2,7
+HCP00384,T008,Midwest,Endocrinology,28.3,3,-1.1,3
+HCP00385,T006,Midwest,Primary Care,28.8,2,-0.1,3
+HCP00386,T003,West,Primary Care,146.0,9,0.7,10
+HCP00387,T017,West,Primary Care,22.7,3,-1.5,2
+HCP00388,T012,West,Oncology,88.2,6,-0.1,7
+HCP00389,T010,Southwest,Oncology,48.1,1,2.2,5
+HCP00390,T003,West,Cardiology,63.7,7,-2.8,7
+HCP00391,T003,West,Cardiology,36.3,2,0.4,3
+HCP00392,T009,West,Cardiology,43.6,2,0.9,5
+HCP00393,T004,West,Primary Care,10.3,0,0.7,1
+HCP00394,T008,Midwest,Oncology,89.6,7,-1.0,7
+HCP00395,T002,Midwest,Primary Care,31.1,0,2.1,4
+HCP00396,T016,Southwest,Primary Care,60.4,4,0.0,7
+HCP00397,T002,Midwest,Cardiology,63.6,3,1.2,8
+HCP00398,T015,Southeast,Primary Care,22.1,4,-2.5,3
+HCP00399,T003,West,Primary Care,17.5,1,0.2,1
+HCP00400,T017,West,Endocrinology,58.1,5,-1.1,6
+HCP00401,T016,Southwest,Primary Care,99.8,5,1.7,9
+HCP00402,T006,Midwest,Cardiology,41.4,6,-3.2,5
+HCP00403,T004,West,Primary Care,6.1,1,-0.6,1
+HCP00404,T011,Midwest,Primary Care,48.5,2,1.2,4
+HCP00405,T016,Southwest,Primary Care,93.0,6,0.2,8
+HCP00406,T012,West,Primary Care,61.5,2,2.1,6
+HCP00407,T002,Midwest,Endocrinology,18.8,3,-1.7,2
+HCP00408,T008,Midwest,Primary Care,45.6,6,-3.0,4
+HCP00409,T016,Southwest,Cardiology,119.7,7,1.0,10
+HCP00410,T016,Southwest,Cardiology,46.9,4,-0.9,5
+HCP00411,T019,Southwest,Cardiology,42.2,1,1.8,3
+HCP00412,T015,Southeast,Oncology,54.3,2,1.6,6
+HCP00413,T012,West,Endocrinology,49.8,1,2.3,4
+HCP00414,T018,Northeast,Primary Care,14.3,1,-0.0,1
+HCP00415,T016,Southwest,Primary Care,48.2,3,0.2,5
+HCP00416,T003,West,Primary Care,49.9,1,2.3,4
+HCP00417,T011,Midwest,Cardiology,81.3,6,-0.6,7
+HCP00418,T008,Midwest,Primary Care,40.2,1,1.7,4
+HCP00419,T018,Northeast,Cardiology,22.2,0,1.5,3
+HCP00420,T011,Midwest,Cardiology,54.3,2,1.6,5
+HCP00421,T008,Midwest,Primary Care,130.5,6,2.7,10
+HCP00422,T006,Midwest,Endocrinology,69.0,6,-1.4,8
+HCP00423,T013,Southeast,Primary Care,20.7,1,0.4,3
+HCP00424,T019,Southwest,Primary Care,64.0,1,3.3,6
+HCP00425,T018,Northeast,Endocrinology,184.1,14,-1.7,10
+HCP00426,T014,Southwest,Cardiology,86.5,3,2.8,9
+HCP00427,T015,Southeast,Cardiology,58.5,2,1.9,6
+HCP00428,T004,West,Primary Care,99.6,6,0.6,9
+HCP00429,T002,Midwest,Primary Care,27.6,1,0.8,4
+HCP00430,T011,Midwest,Endocrinology,115.7,9,-1.3,9
+HCP00431,T019,Southwest,Endocrinology,36.3,3,-0.6,2
+HCP00432,T003,West,Cardiology,47.6,4,-0.8,4
+HCP00433,T015,Southeast,Primary Care,71.5,6,-1.2,8
+HCP00434,T006,Midwest,Cardiology,154.9,12,-1.7,10
+HCP00435,T012,West,Primary Care,38.4,3,-0.4,3
+HCP00436,T009,West,Primary Care,95.0,5,1.3,10
+HCP00437,T006,Midwest,Oncology,109.8,12,-4.7,9
+HCP00438,T013,Southeast,Primary Care,21.0,2,-0.6,4
+HCP00439,T004,West,Oncology,60.0,2,2.0,5
+HCP00440,T002,Midwest,Primary Care,61.0,5,-0.9,7
+HCP00441,T010,Southwest,Primary Care,103.7,8,-1.1,8
+HCP00442,T010,Southwest,Cardiology,133.8,5,3.9,9
+HCP00443,T017,West,Oncology,168.9,7,4.3,10
+HCP00444,T014,Southwest,Endocrinology,16.8,0,1.1,3
+HCP00445,T011,Midwest,Endocrinology,97.5,6,0.5,8
+HCP00446,T008,Midwest,Cardiology,107.4,11,-3.8,8
+HCP00447,T009,West,Cardiology,81.8,6,-0.5,8
+HCP00448,T011,Midwest,Endocrinology,92.9,3,3.2,7
+HCP00449,T016,Southwest,Primary Care,7.3,0,0.5,1
+HCP00450,T005,Southeast,Cardiology,4.7,0,0.3,1
+HCP00451,T006,Midwest,Primary Care,50.4,1,2.4,7
+HCP00452,T013,Southeast,Oncology,79.3,5,0.3,9
+HCP00453,T012,West,Oncology,69.8,10,-5.3,7
+HCP00454,T007,Midwest,Primary Care,56.8,3,0.8,5
+HCP00455,T009,West,Endocrinology,67.6,4,0.5,8
+HCP00456,T008,Midwest,Oncology,105.5,13,-6.0,8
+HCP00457,T017,West,Primary Care,77.4,5,0.2,8
+HCP00458,T001,West,Cardiology,43.0,4,-1.1,5
+HCP00459,T004,West,Oncology,107.2,9,-1.9,9
+HCP00460,T004,West,Primary Care,24.1,2,-0.4,2
+HCP00461,T005,Southeast,Cardiology,9.0,0,0.6,1
+HCP00462,T018,Northeast,Primary Care,32.8,1,1.2,4
+HCP00463,T007,Midwest,Oncology,171.2,9,2.4,10
+HCP00464,T015,Southeast,Oncology,39.1,6,-3.4,4
+HCP00465,T012,West,Oncology,114.2,11,-3.4,9
+HCP00466,T000,Southwest,Cardiology,124.7,14,-5.7,9
+HCP00467,T019,Southwest,Oncology,140.3,9,0.4,9
+HCP00468,T016,Southwest,Endocrinology,33.6,4,-1.8,3
+HCP00469,T006,Midwest,Primary Care,22.2,1,0.5,2
+HCP00470,T012,West,Endocrinology,60.0,6,-2.0,6
+HCP00471,T003,West,Primary Care,50.8,2,1.4,5
+HCP00472,T003,West,Cardiology,105.6,9,-2.0,8
+HCP00473,T005,Southeast,Primary Care,66.5,0,4.4,6
+HCP00474,T018,Northeast,Primary Care,202.5,12,1.5,10
+HCP00475,T011,Midwest,Primary Care,109.6,8,-0.7,9
+HCP00476,T006,Midwest,Cardiology,50.1,2,1.3,6
+HCP00477,T009,West,Primary Care,153.2,9,1.2,10
+HCP00478,T018,Northeast,Endocrinology,21.1,1,0.4,3
+HCP00479,T006,Midwest,Primary Care,16.8,2,-0.9,1
+HCP00480,T002,Midwest,Primary Care,72.4,7,-2.2,8
+HCP00481,T012,West,Cardiology,54.3,2,1.6,5
+HCP00482,T012,West,Endocrinology,153.9,7,3.3,10
+HCP00483,T017,West,Primary Care,64.7,1,3.3,7
+HCP00484,T019,Southwest,Cardiology,61.4,4,0.1,5
+HCP00485,T007,Midwest,Oncology,72.0,4,0.8,7
+HCP00486,T008,Midwest,Cardiology,55.9,5,-1.3,5
+HCP00487,T006,Midwest,Primary Care,4.2,0,0.3,1
+HCP00488,T000,Southwest,Primary Care,19.0,1,0.3,1
+HCP00489,T002,Midwest,Oncology,47.2,1,2.1,6
+HCP00490,T012,West,Primary Care,87.4,4,1.8,7
+HCP00491,T016,Southwest,Oncology,51.3,4,-0.6,6
+HCP00492,T000,Southwest,Cardiology,88.1,10,-4.1,7
+HCP00493,T005,Southeast,Oncology,72.2,2,2.8,7
+HCP00494,T005,Southeast,Endocrinology,26.8,1,0.8,3
+HCP00495,T011,Midwest,Oncology,101.9,3,3.8,8
+HCP00496,T012,West,Primary Care,41.1,2,0.7,3
+HCP00497,T012,West,Endocrinology,121.7,6,2.1,9
+HCP00498,T014,Southwest,Primary Care,30.1,3,-1.0,4
+HCP00499,T015,Southeast,Cardiology,38.3,1,1.6,4
+HCP00500,T010,Southwest,Cardiology,119.5,6,2.0,9
+HCP00501,T004,West,Oncology,72.2,2,2.8,7
+HCP00502,T003,West,Oncology,158.1,11,-0.5,10
+HCP00503,T002,Midwest,Endocrinology,37.1,3,-0.5,5
+HCP00504,T018,Northeast,Primary Care,46.5,1,2.1,5
+HCP00505,T019,Southwest,Primary Care,24.8,6,-4.3,1
+HCP00506,T017,West,Endocrinology,28.2,1,0.9,3
+HCP00507,T014,Southwest,Primary Care,3.3,0,0.2,1
+HCP00508,T008,Midwest,Primary Care,112.6,7,0.5,9
+HCP00509,T016,Southwest,Primary Care,27.7,2,-0.2,2
+HCP00510,T013,Southeast,Primary Care,60.5,3,1.0,8
+HCP00511,T014,Southwest,Primary Care,36.5,0,2.4,5
+HCP00512,T000,Southwest,Primary Care,92.3,5,1.2,7
+HCP00513,T002,Midwest,Primary Care,7.0,0,0.5,1
+HCP00514,T015,Southeast,Primary Care,48.7,3,0.2,5
+HCP00515,T010,Southwest,Oncology,142.5,12,-2.5,10
+HCP00516,T011,Midwest,Primary Care,43.6,3,-0.1,4
+HCP00517,T009,West,Primary Care,22.0,0,1.5,2
+HCP00518,T015,Southeast,Cardiology,11.8,2,-1.2,1
+HCP00519,T007,Midwest,Primary Care,24.1,0,1.6,2
+HCP00520,T005,Southeast,Oncology,10.1,0,0.7,2
+HCP00521,T011,Midwest,Endocrinology,98.1,7,-0.5,8
+HCP00522,T007,Midwest,Primary Care,58.8,3,0.9,6
+HCP00523,T003,West,Primary Care,75.4,3,2.0,8
+HCP00524,T007,Midwest,Oncology,36.0,2,0.4,3
+HCP00525,T017,West,Oncology,30.8,2,0.1,4
+HCP00526,T004,West,Cardiology,97.8,3,3.5,9
+HCP00527,T008,Midwest,Cardiology,95.2,3,3.3,7
+HCP00528,T003,West,Primary Care,6.2,0,0.4,1
+HCP00529,T016,Southwest,Oncology,46.1,3,0.1,4
+HCP00530,T008,Midwest,Primary Care,116.7,9,-1.2,9
+HCP00531,T000,Southwest,Oncology,144.5,12,-2.4,9
+HCP00532,T019,Southwest,Cardiology,54.4,4,-0.4,5
+HCP00533,T012,West,Cardiology,21.6,4,-2.6,1
+HCP00534,T015,Southeast,Cardiology,28.2,2,-0.1,4
+HCP00535,T012,West,Primary Care,29.3,6,-4.0,2
+HCP00536,T013,Southeast,Primary Care,10.7,0,0.7,2
+HCP00537,T002,Midwest,Primary Care,94.4,8,-1.7,9
+HCP00538,T005,Southeast,Primary Care,88.8,8,-2.1,8
+HCP00539,T017,West,Endocrinology,19.5,2,-0.7,1
+HCP00540,T018,Northeast,Primary Care,137.4,5,4.2,9
+HCP00541,T004,West,Primary Care,28.5,0,1.9,3
+HCP00542,T014,Southwest,Oncology,83.7,8,-2.4,9
+HCP00543,T001,West,Oncology,56.2,5,-1.3,5
+HCP00544,T009,West,Oncology,30.6,1,1.0,3
+HCP00545,T017,West,Oncology,62.1,6,-1.9,7
+HCP00546,T012,West,Primary Care,6.4,1,-0.6,1
+HCP00547,T004,West,Primary Care,31.2,2,0.1,4
+HCP00548,T000,Southwest,Endocrinology,54.2,3,0.6,5
+HCP00549,T000,Southwest,Cardiology,79.2,3,2.3,6
+HCP00550,T017,West,Primary Care,9.1,0,0.6,1
+HCP00551,T014,Southwest,Endocrinology,13.7,2,-1.1,2
+HCP00552,T016,Southwest,Primary Care,47.9,5,-1.8,5
+HCP00553,T010,Southwest,Primary Care,14.0,0,0.9,1
+HCP00554,T016,Southwest,Cardiology,56.0,3,0.7,6
+HCP00555,T012,West,Cardiology,152.3,11,-0.8,10
+HCP00556,T000,Southwest,Cardiology,20.4,0,1.4,2
+HCP00557,T001,West,Primary Care,19.5,1,0.3,2
+HCP00558,T008,Midwest,Oncology,162.1,12,-1.2,10
+HCP00559,T002,Midwest,Primary Care,6.2,1,-0.6,1
+HCP00560,T000,Southwest,Primary Care,35.4,3,-0.6,3
+HCP00561,T015,Southeast,Oncology,103.6,5,1.9,9
+HCP00562,T005,Southeast,Oncology,155.9,12,-1.6,9
+HCP00563,T016,Southwest,Oncology,57.6,6,-2.2,6
+HCP00564,T004,West,Endocrinology,17.6,1,0.2,2
+HCP00565,T004,West,Cardiology,79.9,3,2.3,7
+HCP00566,T005,Southeast,Cardiology,81.4,7,-1.6,8
+HCP00567,T002,Midwest,Primary Care,128.8,6,2.6,10
+HCP00568,T004,West,Primary Care,31.0,2,0.1,3
+HCP00569,T004,West,Primary Care,51.4,2,1.4,5
+HCP00570,T009,West,Primary Care,37.8,0,2.5,4
+HCP00571,T009,West,Endocrinology,19.8,1,0.3,1
+HCP00572,T018,Northeast,Cardiology,80.7,3,2.4,7
+HCP00573,T016,Southwest,Primary Care,85.4,4,1.7,8
+HCP00574,T013,Southeast,Primary Care,65.9,2,2.4,8
+HCP00575,T008,Midwest,Cardiology,35.8,1,1.4,3
+HCP00576,T013,Southeast,Primary Care,33.6,6,-3.8,5
+HCP00577,T000,Southwest,Oncology,186.6,14,-1.6,10
+HCP00578,T018,Northeast,Cardiology,50.7,3,0.4,6
+HCP00579,T012,West,Cardiology,146.8,11,-1.2,10
+HCP00580,T012,West,Cardiology,56.7,0,3.8,5
+HCP00581,T003,West,Endocrinology,52.4,3,0.5,5
+HCP00582,T000,Southwest,Primary Care,83.2,10,-4.5,6
+HCP00583,T016,Southwest,Cardiology,227.4,10,5.2,10
+HCP00584,T007,Midwest,Cardiology,55.0,5,-1.3,5
+HCP00585,T001,West,Primary Care,29.8,2,-0.0,3
+HCP00586,T007,Midwest,Oncology,43.8,1,1.9,4
+HCP00587,T006,Midwest,Endocrinology,26.5,1,0.8,3
+HCP00588,T001,West,Cardiology,37.2,2,0.5,3
+HCP00589,T002,Midwest,Oncology,53.3,1,2.6,7
+HCP00590,T017,West,Oncology,151.8,13,-2.9,10
+HCP00591,T011,Midwest,Endocrinology,84.8,2,3.7,7
+HCP00592,T000,Southwest,Endocrinology,97.0,8,-1.5,7
+HCP00593,T011,Midwest,Cardiology,109.5,14,-6.7,9
+HCP00594,T004,West,Cardiology,148.3,14,-4.1,10
+HCP00595,T016,Southwest,Cardiology,34.4,3,-0.7,3
+HCP00596,T015,Southeast,Endocrinology,68.4,2,2.6,8
+HCP00597,T014,Southwest,Primary Care,8.0,0,0.5,1
+HCP00598,T014,Southwest,Oncology,16.1,1,0.1,3
+HCP00599,T004,West,Oncology,90.4,5,1.0,8

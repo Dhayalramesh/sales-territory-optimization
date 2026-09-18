@@ -1,0 +1,21 @@
+territory_id,hcp_count,total_potential,avg_potential,total_current_calls,region,rep_id,tenure_years,weekly_call_capacity,quarterly_capacity,potential_per_capacity,calls_vs_capacity_pct,sizing_recommendation
+T000,47,3678.8,78.27234042553192,238,Southwest,REP000,2.8,50,650,5.66,36.6,Understaffed — consider adding capacity
+T001,25,1838.0,73.52,131,West,REP001,0.2,31,403,4.561,32.5,Balanced
+T002,41,2031.9,49.55853658536586,126,Midwest,REP002,0.2,49,637,3.19,19.8,Balanced
+T003,26,1826.8,70.26153846153846,139,West,REP003,2.2,44,572,3.194,24.3,Balanced
+T004,40,2620.3,65.50750000000001,161,West,REP004,1.5,36,468,5.599,34.4,Understaffed — consider adding capacity
+T005,21,1478.5,70.4047619047619,88,Southeast,REP005,0.2,41,533,2.774,16.5,Balanced
+T006,30,1685.7,56.190000000000005,111,Midwest,REP006,10.9,37,481,3.505,23.1,Balanced
+T007,29,1912.3,65.94137931034483,117,Midwest,REP007,0.8,44,572,3.343,20.5,Balanced
+T008,29,1991.0,68.65517241379311,151,Midwest,REP008,0.3,32,416,4.786,36.3,Balanced
+T009,24,1369.5,57.0625,77,West,REP009,2.9,43,559,2.45,13.8,Overstaffed — consider reallocating
+T010,17,1190.0,70.0,85,Southwest,REP010,1.4,46,598,1.99,14.2,Overstaffed — consider reallocating
+T011,34,2772.5,81.54411764705883,166,Midwest,REP011,12.3,33,429,6.463,38.7,Understaffed — consider adding capacity
+T012,34,2607.2,76.68235294117646,169,West,REP012,1.9,47,611,4.267,27.7,Balanced
+T013,22,1073.6,48.8,81,Southeast,REP013,5.9,37,481,2.232,16.8,Overstaffed — consider reallocating
+T014,24,1221.4,50.89166666666667,65,Southwest,REP014,3.4,33,429,2.847,15.2,Balanced
+T015,37,2144.7000000000003,57.96486486486487,151,Southeast,REP015,1.8,31,403,5.322,37.5,Understaffed — consider adding capacity
+T016,38,2595.6,68.30526315789473,178,Southwest,REP016,0.2,35,455,5.705,39.1,Understaffed — consider adding capacity
+T017,23,1341.8,58.339130434782604,80,West,REP017,8.6,51,663,2.024,12.1,Overstaffed — consider reallocating
+T018,30,2068.7,68.95666666666666,111,Northeast,REP018,2.5,39,507,4.08,21.9,Balanced
+T019,29,2331.1,80.38275862068966,149,Southwest,REP019,1.5,33,429,5.434,34.7,Understaffed — consider adding capacity

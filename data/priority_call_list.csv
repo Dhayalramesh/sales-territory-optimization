@@ -1,0 +1,34 @@
+hcp_id,territory_id,region,specialty,potential_score,current_calls_per_quarter,call_gap,priority_decile
+HCP00309,T011,Midwest,Oncology,337.5,12,10.5,10
+HCP00083,T019,Southwest,Primary Care,145.4,3,6.7,9
+HCP00311,T000,Southwest,Primary Care,131.7,3,5.8,9
+HCP00583,T016,Southwest,Cardiology,227.4,10,5.2,10
+HCP00047,T002,Midwest,Primary Care,82.8,1,4.5,9
+HCP00188,T002,Midwest,Cardiology,141.5,5,4.4,10
+HCP00443,T017,West,Oncology,168.9,7,4.3,10
+HCP00030,T002,Midwest,Primary Care,77.9,1,4.2,9
+HCP00237,T013,Southeast,Oncology,123.3,4,4.2,10
+HCP00540,T018,Northeast,Primary Care,137.4,5,4.2,9
+HCP00442,T010,Southwest,Cardiology,133.8,5,3.9,9
+HCP00060,T014,Southwest,Endocrinology,115.4,4,3.7,10
+HCP00526,T004,West,Cardiology,97.8,3,3.5,9
+HCP00482,T012,West,Endocrinology,153.9,7,3.3,10
+HCP00093,T005,Southeast,Cardiology,138.0,6,3.2,9
+HCP00064,T006,Midwest,Cardiology,210.8,11,3.1,10
+HCP00078,T009,West,Primary Care,87.7,3,2.8,9
+HCP00426,T014,Southwest,Cardiology,86.5,3,2.8,9
+HCP00421,T008,Midwest,Primary Care,130.5,6,2.7,10
+HCP00322,T011,Midwest,Cardiology,173.5,9,2.6,10
+HCP00567,T002,Midwest,Primary Care,128.8,6,2.6,10
+HCP00208,T016,Southwest,Oncology,144.5,7,2.6,10
+HCP00172,T008,Midwest,Endocrinology,127.2,6,2.5,10
+HCP00217,T018,Northeast,Primary Care,157.2,8,2.5,9
+HCP00074,T012,West,Cardiology,366.9,22,2.5,10
+HCP00463,T007,Midwest,Oncology,171.2,9,2.4,10
+HCP00069,T006,Midwest,Primary Care,80.5,3,2.4,9
+HCP00036,T006,Midwest,Cardiology,110.3,5,2.4,10
+HCP00246,T007,Midwest,Endocrinology,110.0,5,2.3,9
+HCP00317,T000,Southwest,Endocrinology,138.0,7,2.2,9
+HCP00320,T004,West,Primary Care,108.0,5,2.2,9
+HCP00183,T007,Midwest,Endocrinology,166.7,9,2.1,10
+HCP00497,T012,West,Endocrinology,121.7,6,2.1,9
